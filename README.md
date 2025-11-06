@@ -8,6 +8,9 @@ Github Account name: maggiesomiakiraneu
 Link to Assignment on Github: https://github.com/CS5008Fall2025/city-finder-maggiesomiakiraneu
 
 How many hours did it take you to complete this assignment (estimate)? 
+I think between 20 to 30 hours.
+
+
 
 Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.  
 - one per row, add more if needed

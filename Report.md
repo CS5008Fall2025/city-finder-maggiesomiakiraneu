@@ -63,4 +63,16 @@ For both these questions, are you are free to use what you did as the last secti
 
 1. Select one technical interview question (this module or previous) from the [technical interview list](https://github.com/CS5008-khoury/Resources/blob/main/TechInterviewQuestions.md) below and answer it in a few sentences. You can use any resource you like to answer the question.
 
+
+Interview question: What is a header (.h) file and how does it differ from a source file? Why do we use header files?
+
+A header file (.h) includes declarations such as function prototypes, structures, and constants. It tells the compiler what functions and types exist, but not how they work. A source file contains the actual code that implements those functions. So the header describes the interface, and the source file provides the working code.
+
+
+
 2. Select one coding question (this module or previous) from the [coding practice repository](https://github.com/CS5008-khoury/Resources/blob/main/LeetCodePractice.md) and include a c file with that code with your submission. Make sure to add comments on what you learned, and if you compared your solution with others. 
+
+Link to the question: https://leetcode.com/problems/power-of-two/description/?envType=list&envId=ofbudylr
+
+I saved the code in the 'leecode.c' file. 
+
